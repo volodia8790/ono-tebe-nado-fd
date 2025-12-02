@@ -188,7 +188,7 @@
   list-style: none;
 }
 
-.lost__card-list-item {
+.lots__card-list-item {
   height: 596px;
   width: 334px;
 }
@@ -208,7 +208,6 @@
   height: 100%;
   padding: 50px 40px;
   background-repeat: no-repeat;
-  position: relative;
   background-position: center;
   background-size: cover;
 }
